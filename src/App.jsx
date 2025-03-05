@@ -22,7 +22,7 @@ function App() {
             avatar="https://i.pinimg.com/originals/ff/03/e2/ff03e2b79c38b60ff911124d059daabd.jpg"
             phone="+91 8008149866"
             email="ganeshvathumilli@gmail.com"
-            website="https://www.ganeshvath.vercel.app"
+            website="https://ganeshvath.vercel.app/"
             address="Tadepalligudem, Andhra Pradesh"
           />
         </div>
